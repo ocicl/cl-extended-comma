@@ -1,0 +1,10 @@
+* cl-extended-comma
+
+The library extended-comma provides a layer through which to extend
+the comma reader macro in the style of dispatch reader macros.
+
+|---------+------------------------------------------------|
+| source  | git:https://git.sr.ht/~thuna/cl-extended-comma |
+| commit  | 632b9ad                                        |
+| systems | extended-comma                                 |
+|---------+------------------------------------------------|
