@@ -5,6 +5,6 @@ the comma reader macro in the style of dispatch reader macros.
 
 |---------+------------------------------------------------|
 | source  | git:https://git.sr.ht/~thuna/cl-extended-comma |
-| commit  | 4478e6e                                        |
+| commit  | d917f62                                        |
 | systems | extended-comma                                 |
 |---------+------------------------------------------------|
